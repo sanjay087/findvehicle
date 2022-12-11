@@ -1,0 +1,5 @@
+name: Find Vehicle
+type: module
+description: 'Help to find vehicle.'
+core_version_requirement:  ^8.7.7 || ^9
+package: Custom modules
